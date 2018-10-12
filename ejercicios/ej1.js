@@ -1,7 +1,6 @@
 function setup(){
-
 }
 
 function draw() {
-	ellipse(60,60,90,90)
+	ellipse(60,60,90,90);
 }
